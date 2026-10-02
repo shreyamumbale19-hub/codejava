@@ -6,7 +6,8 @@ public class Main{
     String Name;
     int Age;
     double CGPA;
-     System.out.print("Enter name:");
+    
+    System.out.print("Enter name:");
     Name = sc.nextLine ();
    
 
